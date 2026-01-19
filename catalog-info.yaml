@@ -5,6 +5,7 @@ metadata:
   description: An example Python application
   annotations:
     github.com/project-slug: andreafilomena/python-app
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: development

@@ -1,0 +1,14 @@
+site_name: 'Python App'
+site_description: 'Main documentation for Python App'
+repo_url: https://github.com/andrea-filomena/python-app
+edit_uri: edit/master/docs
+
+plugins:
+  - techdocs-core
+  - redirects:
+      #redirect_maps:
+      #  'index.md': 'docs/what-is-backstage.md'
+
+nav:
+  - Overview:
+      - Getting Started: docs/index.md
